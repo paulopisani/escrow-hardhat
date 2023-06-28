@@ -1,5 +1,5 @@
 body {
-  background-color: #eee;
+  background-color: #030202;
   display: flex;
   font-family: 'Muli', sans-serif;
 }
@@ -9,7 +9,7 @@ body {
   display: inline-block;
   padding: 40px;
   border: 1px solid #ddd;
-  background-color: #fff;
+  background-color: #312fc8;
 }
 
 h1 {
@@ -32,7 +32,7 @@ input[type="text"] {
 }
 
 .button {
-  background-color: #f58427;
+  background-color: #060605;
   color: white;
   text-align: center;
   font-weight: bold;
@@ -54,6 +54,7 @@ input[type="text"] {
   list-style: none;
   display: flex;
   margin: 10px;
+  background-color: #a89696;
 }
 
 .existing-contract ul > li > div {
